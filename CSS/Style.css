@@ -1,0 +1,77 @@
+body{
+  width: 95%;
+  max-width: 800px;
+  margin: auto;
+  background: url(../imagens/batman.png) center;
+  background-size: cover;
+}
+.total{
+    
+    font-family: 'Lato';
+    line-height: 2;
+    color: white;
+    
+  }
+   main {
+    background: #00000054;
+    padding: 100px 50px;
+    margin-top:20px;
+    border-radius: 10px;
+    border: 10px;   
+  }s
+   .logo, .band-name, .headline {
+    margin: 0;
+    text-align: center;
+    border-top: 50px;
+    
+  }
+  .concerts {
+    margin: 30px 0;
+    text-align: center;
+    width: 100%;
+  }
+  .concerts table {
+    background: #cb3a3ab3;
+    border-radius: 10px;
+    padding: 10px;
+    padding-right: 2em;
+    margin: 0 auto;
+  }
+  #titulo{
+    margin: 30px;
+    font-size: 17px;
+    font-family: 'Yusei Magic', sans-serif;
+    text-align: center;
+    border-radius: 20px;
+  }
+  
+.h{
+  font-size: 15px;
+  font-family: 'Roboto', sans-serif;
+  border-radius: 10px;
+  padding: 2px;
+  padding-right: 1em;
+  margin: 50px 0;
+  
+  color: white;
+  overflow:auto;
+  
+}
+
+a{
+  font-size: 15px;
+    text-decoration: none;
+    color: rgb(247, 238, 238);
+}
+.linkedin{
+
+    list-style-image: url("../imagens/linkedin1.png");
+    padding: 5px;
+}
+.instagram{
+    list-style-image: url("../imagens/instagram.png");
+    padding: 5px;
+}
+.facebook{
+    list-style-image: url("../imagens/facebook.png");
+}
